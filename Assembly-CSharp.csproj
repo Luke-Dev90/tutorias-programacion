@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\JumplController.cs" />
+    <Compile Include="Assets\Scripts\AttackController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
