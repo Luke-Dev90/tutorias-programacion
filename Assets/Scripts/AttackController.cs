@@ -6,6 +6,8 @@ public class AttackController : MonoBehaviour
     void Start()
     {
         Debug.Log("Esta atacando");
+        Debug.Log("Esta atacando");
+        Debug.Log("Esta atacando");
     }
 
     // Update is called once per frame
